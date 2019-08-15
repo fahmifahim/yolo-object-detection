@@ -1,0 +1,5 @@
+classes= 2
+train  = data/bdvc_train.txt
+valid  = data/bdvc_train.txt
+names = data/bdvc_obj.names
+backup = backup/

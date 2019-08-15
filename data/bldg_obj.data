@@ -1,0 +1,5 @@
+classes= 2
+train  = data/bldg_train.txt
+valid  = data/bldg_train.txt
+names = data/bldg_obj.names
+backup = backup/
